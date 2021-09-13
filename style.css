@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+}
+
+.menu{
+background-color: rgb(255, 255, 255);
+width: 100%;
+height: 120px;
+overflow: hidden;
+}
+
+.button{
+    height: 8vw;
+display: inline-block;
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    height: 45vw;
+    width: fit-content;
+    overflow: hidden;
+}  
+.card2{
+    background-color: rgb(0, 0, 0);
+    height: 45vw;
+    width: fit-content;
+    overflow: hidden;
+    display: inline-block;
+}  
+.icard{
+    background-color: rgb(255, 255, 255);
+    height: 30vw;
+    width: 45w;
+    overflow: hidden;
+    display: inline;
+    margin-left: 800px;
+}
+
+.isi{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+    font-size: 24px;
+    display: inline-block;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.title{
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-weight: bold;
+font-size: 8vw;
+}
+
+.cp{
+ background-color: rgb(199, 199, 199);
+    height: 24px;
+    width: 100%;
+    overflow: hidden;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+}
